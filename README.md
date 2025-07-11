@@ -119,4 +119,11 @@ img[alt="logo"] {
   font-weight: semibold;
   text-decoration: none;
 }
+
+header img {
+  width: 140px !important;
+  height: auto !important;
+  display: block !important;
+  margin: 0 auto !important;
+}  
 </style>
