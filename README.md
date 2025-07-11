@@ -123,7 +123,5 @@ img[alt="logo"] {
 header img {
   width: 140px !important;
   height: auto !important;
-  display: block !important;
-  margin: 0 auto !important;
 }  
 </style>
